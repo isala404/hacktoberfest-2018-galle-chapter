@@ -1,0 +1,26 @@
+body {
+    background-image: url("img/background.jpg");
+    color: white;
+    /*text-align: center;*/
+}
+ul {
+    list-style-type: none;
+}
+
+li {
+    float: left;
+}
+
+li a{
+	padding: 16px;
+	font-size: 50px;
+	color: #ff7272;
+}
+
+h1{
+	font-size: 70px;
+}
+
+h2{
+	font-size: 50px;
+}
