@@ -1,6 +1,6 @@
 body {
     background-image: url("../img/background.jpg");
-    color: white;
+    color: red;
     /*text-align: center;*/
 }
 ul {
@@ -12,14 +12,14 @@ li {
 }
 
 li a{
-	font-size: 50px;
+	font-size: 75px;
 	color: #ff7272;
 }
 
-h1{
+h3{
 	font-size: 70px;
 }
 
-h2{
+h4{
 	font-size: 50px;
 }
