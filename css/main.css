@@ -1,7 +1,7 @@
 body {
     background-image: url("../img/background.jpg");
-    color: white;
-    /*text-align: center;*/
+    color: purple;
+     text-align: center;
 }
 ul {
     list-style-type: none;
