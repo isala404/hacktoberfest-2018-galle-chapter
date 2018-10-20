@@ -46,6 +46,7 @@ git push -u origin your_branch_name
 | Participant's Name | Participant's Github Username |
 |------------------|-----------------------------|
 |Isala Piyarisi|mrsupiri|
+|Nadith Jayawardena|NadithJ|
 |Hasith Nimhara|HASITHNIMHARA|
 |Malika Nishnatha|malika1234m|
 |Bulith Hansaja|Bulith|
