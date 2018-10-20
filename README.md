@@ -14,8 +14,9 @@ git config user.email "name@example.com"
 git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY
 # Configure where to upload the code
 git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY
-# Save Changes you made
+# Tell Git to track changes of all the files in this directory
 git add .
+# Save Changes you made
 git commit -m "Commit Message"
 # Send your code to the GitHub
 git push -u origin master
@@ -31,8 +32,9 @@ git remote add origin https://github.com/mrsupiri/hacktoberfest-2018-galle-chapt
 git branch your_branch_name
 # Use the created container
 git checkout checkout your_branch_name
-# Save Changes you made
+# Tell Git to track changes of all the files in this directory
 git add .
+# Save Changes you made
 git commit -m "Commit Message"
 # Send your code to the GitHub
 git push -u origin your_branch_name
