@@ -46,3 +46,4 @@ git push -u origin your_branch_name
 |------------------|-----------------------------|
 |Isala Piyarisi|mrsupiri|
 |Bulith Hansaja|Bulith|
+|Hasith Nimhara||HASITH NIMHARA|
