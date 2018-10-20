@@ -1,7 +1,7 @@
 body {
     background-image: url("../img/background.jpg");
-    color: white;
-    /*text-align: center;*/
+    color: green;
+    text-align: center;
 }
 ul {
     list-style-type: none;
@@ -13,7 +13,7 @@ li {
 
 li a{
 	font-size: 50px;
-	color: #ff7272;
+	color: #ff32548;
 }
 
 h1{
