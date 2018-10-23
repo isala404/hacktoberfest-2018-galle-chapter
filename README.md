@@ -1,4 +1,3 @@
-
 # Hacktoberfest 2018 Galle Chapter
 This is the Demo Used in Hacktoberfest 2018 Galle Chapter. 
 
@@ -53,4 +52,5 @@ git push -u origin your_branch_name
 |Hasith Nimhara|HASITHNIMHARA|
 |Malika Nishnatha|malika1234m|
 |Bulith Hansaja|Bulith|
+|Hasith nimhara|HASITHNIMHARA|
 |Pasindu Epa|PasinduEpa|
