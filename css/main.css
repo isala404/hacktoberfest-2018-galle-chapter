@@ -1,26 +1,26 @@
 body {
     background-image: url("../img/background.jpg");
     text-align: center;
-    color: red;
+    color: Black;
 }
 ul {
     list-style-type: none;
 }
 
 li {
-    float: left;
+    float: Right;
 }
 
 li a{
-	font-size: 50px;
-	color: #ff7272;
-	padding:50px;
+	font-size: 90px;
+	color: #ff5652;
+	padding:90px;
 }
 
 h1{
-	font-size: 70px;
+	font-size: 100px;
 }
 
 h2{
-	font-size: 50px;
+	font-size: 90px;
 }
