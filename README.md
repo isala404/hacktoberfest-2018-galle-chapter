@@ -1,8 +1,8 @@
 
-# Hacktoberfest 2018 Galle Chapter
+### Hacktoberfest 2018 Galle Chapter
 This is the Demo Used in Hacktoberfest 2018 Galle Chapter. 
 
-## Git Tutorial
+### Git Tutorial
 ### Setup Git
 ```bash
 # Setup git with your your credentials
