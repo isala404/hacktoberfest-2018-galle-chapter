@@ -1,6 +1,6 @@
 body {
-    background-image: url("../img/background.jpg");
-    color: red;
+    background-image: url("../img/vector-tech-circle-technology-background_43778-191.jpg");
+    color: white;
     text-align: center;
 }
 ul {
@@ -12,7 +12,7 @@ li {
 }
 
 li a{
-	font-size: 50px;
+	font-size: 55px;
 	color: #ff7272;
 }
 
